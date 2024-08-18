@@ -1,0 +1,27 @@
+.content{
+    height:40rem;
+    max-width:70%;
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    padding: 40px;
+    margin-top: 60px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    border:1px solid rgba(0, 0, 0, 0.149);
+}
+.pic{
+    height:20rem;
+    width:60%;
+    background-color: black;
+    background-image: url("/iso.avif");
+    border-radius: 30px;
+    background-size: cover;
+}
+.h{
+    font-size: 2rem;
+}
+.p{
+    font-size: 1.1rem;
+}
